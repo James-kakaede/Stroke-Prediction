@@ -9,6 +9,7 @@ This model aims to predict the likelihood of stroke based on several features, i
 
 The application is hosted on [Streamlit Share](https://stroke-prediction-james.streamlit.app/) and is accessible [here](https://stroke-prediction-james.streamlit.app/).
 
+
 ## Installation
 
 To set up the project locally:
